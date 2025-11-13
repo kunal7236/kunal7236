@@ -48,7 +48,6 @@ Here are a few technologies I've been working with recently:
 </p>
 
 ---
----
 
 ### Featured Projects
 
@@ -56,10 +55,10 @@ Here are some of the projects I'm most proud of. You can find more on my [portfo
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Jan Aushadhi Sarthak** | A Flutter app that finds generic medicine alternatives from Jan Aushadhi stores by parsing prescriptions with OCR. | Flutter, FastAPI, OCR | [GitHub](https://github.com/kunal7236/jan_aushadhi_sarthak) \| [Demo](https://kunalkashyap.tech/static/media/sarthak.3e0f7238290f6d63435c.mp4) |
-| **Musify** | A music streaming and downloading app with background playback, lock screen controls, and offline support. | Flutter, Dart, audio_service | [GitHub](https://github.com/kunal7236/Musify) |
-| **IPTV App** | A modern, feature-rich IPTV streaming application built with Flutter, featuring professional video controls. | Flutter, Dart | [GitHub](https://github.com/kunal7236/iptv_player) \| [Demo](https://kunalkashyap.tech/static/media/iptv.f06c6e788647e30d1d29.mp4) |
-| **Weather App** | An intuitive Flutter weather app with real-time data for any city, built with Material Design 3 and dark theme. | Flutter, OpenWeather API | [GitHub](https://github.com/kunal7236/Weather-App) \| [Demo](https://kunalkashyap.tech/static/media/weather.e95083017a637d94f286.mp4) |
+| **Jan Aushadhi Sarthak** | A Flutter app that finds generic medicine alternatives from Jan Aushadhi stores by parsing prescriptions with OCR. | Flutter, FastAPI, OCR | [GitHub](https://github.com/kunal7236/jan_aushadhi_sarthak) \| [Demo](https://youtube.com/shorts/qs5Gr85ze7M?feature=share) |
+| **Musify** | A music streaming and downloading app with background playback, lock screen controls, and offline support. | Flutter, Dart, audio_service, JioSaavn API | [GitHub](https://github.com/kunal7236/Musify) \| [Demo](https://youtube.com/shorts/NpMFO8_OAzg?feature=share) |
+| **IPTV App** | A modern, feature-rich IPTV streaming application built with Flutter, featuring professional video controls. | Flutter, Dart, HLS Streaming | [GitHub](https://github.com/kunal7236/iptv_player) \| [Demo](https://youtube.com/shorts/LNQ2E4kYZsk?feature=share) |
+| **Weather App** | An intuitive Flutter weather app with real-time data for any city, built with Material Design 3 and dark theme. | Flutter, OpenWeather API | [GitHub](https://github.com/kunal7236/Weather-App) \| [Demo](https://youtube.com/shorts/tHZVERkG7b4?feature=share) |
 
 ---
 ### 📊 My GitHub Stats

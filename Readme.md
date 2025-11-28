@@ -75,7 +75,7 @@ Here are some of the projects I'm most proud of. You can find more on my [portfo
 You can find me on these platforms:
 
 <p>
-  <a href="httpsm://www.linkedin.com/in/kunal-kashyap-bitmesra" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-kashyap-bitmesra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/kunal7236/" target="_blank">

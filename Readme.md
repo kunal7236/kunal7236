@@ -3,7 +3,7 @@
 [![My Portfolio](https://img.shields.io/badge/Portfolio-kunalkashyap.tech-blue?style=for-the-badge&logo=website)](https://kunalkashyap.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kunal--kashyap-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-kashyap-bitmesra)
 
-I'm a Fullstack Flutter & API Developer and a Computer Science student at BIT Mesra (Class of '26). I'm passionate about building efficient, scalable applications and solving real-world problems.
+I'm a Fullstack Flutter Developer and a Computer Science student at BIT Mesra (Class of '26). I'm passionate about building efficient, scalable applications and solving real-world problems.
 
 ---
 
@@ -55,6 +55,7 @@ Here are some of the projects I'm most proud of. You can find more on my [portfo
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **Easy Rail App** | Easy Rail provides real-time train information, seat availability, PNR status, and live train tracking - all in one beautiful, user-friendly interface. | Flutter, Dart | [GitHub](https://github.com/kunal7236/easy_rail_app) \| [Demo](https://www.youtube.com/shorts/q-T9eZis8eU) |
 | **Jan Aushadhi Sarthak** | A Flutter app that finds generic medicine alternatives from Jan Aushadhi stores by parsing prescriptions with OCR. | Flutter, FastAPI, OCR | [GitHub](https://github.com/kunal7236/jan_aushadhi_sarthak) \| [Demo](https://youtube.com/shorts/qs5Gr85ze7M?feature=share) |
 | **Musify** | A music streaming and downloading app with background playback, lock screen controls, and offline support. | Flutter, Dart, audio_service, JioSaavn API | [GitHub](https://github.com/kunal7236/Musify) \| [Demo](https://youtube.com/shorts/NpMFO8_OAzg?feature=share) |
 | **IPTV App** | A modern, feature-rich IPTV streaming application built with Flutter, featuring professional video controls. | Flutter, Dart, HLS Streaming | [GitHub](https://github.com/kunal7236/iptv_player) \| [Demo](https://youtube.com/shorts/LNQ2E4kYZsk?feature=share) |
@@ -64,8 +65,12 @@ Here are some of the projects I'm most proud of. You can find more on my [portfo
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal7236&show_icons=true&theme=radical" alt="kunal7236's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal7236&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal7236&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="kunal7236's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal7236&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal7236&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 ---

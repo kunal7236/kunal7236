@@ -1,95 +1,102 @@
-# Hi there, I'm Kunal Kashyap 👋
+# Kunal Kashyap
 
-[![My Portfolio](https://img.shields.io/badge/Portfolio-kunalkashyap.tech-blue?style=for-the-badge&logo=website)](https://kunalkashyap.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunal--kashyap-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-kashyap-bitmesra)
+**Software Engineer Intern at [Zluri](https://www.zluri.com/)** · Computer Science & Engineering at BIT Mesra, Class of '26
 
-I'm a Fullstack Flutter Developer and a Computer Science student at BIT Mesra (Class of '26). I'm passionate about building efficient, scalable applications and solving real-world problems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-kunalka.me-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://www.kunalka.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunal--kashyap-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kashyap-bitmesra)
+[![Email](https://img.shields.io/badge/Email-kunalkashyap277@gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:kunalkashyap277@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1761-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/kunal7236/)
 
----
-
-### 🚀 About Me
-- 🎓 Studying **Computer Science & Engineering** at BIT Mesra.
-- 👨‍💻 Fullstack Developer specializing in **Flutter** for mobile and **FastAPI** for backends.
-- 🌱 I'm currently learning **Web Development** and **NodeJs**.
-- 💡 Interested in mobile app development, API design.
-- 📈 Solved 1000+ DSA problems (1700+ on LeetCode).
+I build enterprise frontend at Zluri and self-hosted backends in my spare time. Interested in problems that span the whole stack — React and TypeScript at work, Python data pipelines and APIs on my own hardware.
 
 ---
 
-### 🛠️ My Tech Stack
+## What I'm working on
 
-Here are a few technologies I've been working with recently:
-
-**Languages:**
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-**Frameworks & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-**Databases:**
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+- 🏢 **Zluri** — owned the frontend for a drag-and-drop email template builder (GrapesJS) that lets enterprise admins brand every product notification, plus custom sender-domain support so organisations send from their own email domain. Also shipped JSONata-computed custom fields (full-stack) and an SLA-breach tracker.
+- 🍓 **JanAushadhi Data Engine** — a weekly GitHub Actions pipeline that parses government PDFs into indexed SQLite, feeding a FastAPI service I run on a Raspberry Pi at [jan-api.kunalka.me](https://jan-api.kunalka.me/docs).
+- 📈 Solved **1000+** DSA and SQL problems across LeetCode, GeeksforGeeks and Code360.
 
 ---
 
-### Featured Projects
+## Tech Stack
 
-Here are some of the projects I'm most proud of. You can find more on my [portfolio](https://kunalkashyap.tech/).
+**Languages**
 
-| Project | Description | Tech Stack | Links |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Mobile & Tooling**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Projects
+
+### JanAushadhi Sarthak
+
+Making India's generic-medicine data usable, end to end — pipeline, API and app.
+
+- **[kendra-data-engine](https://github.com/kunal7236/kendra-data-engine)** — authenticates with the official JanAushadhi portal, streams government PDFs in-memory and parses their tables with `pdfplumber`, producing clean datasets of **20,700+ store locations** and **2,400+ medicines** with drug codes and MRP. Syncs weekly via GitHub Actions, rebuilds indexed SQLite + CSV snapshots, and reports each run through a Telegram bot.
+- **[jan-api.kunalka.me](https://jan-api.kunalka.me/docs)** — a FastAPI service I self-host on a Raspberry Pi, serving medicine search by drug code or generic name and Kendra lookup by pincode, state, district or Kendra code. Indexes tuned for sub-second queries on low-power hardware.
+- **[jan_aushadhi_sarthak](https://github.com/kunal7236/jan_aushadhi_sarthak)** — the Flutter client: store discovery, colour-coded availability and pricing, one-tap calling and Maps navigation, and a persistent cart. Signed APKs published to Releases by CI.
+
+`Python` `FastAPI` `SQLite` `Flutter` `Raspberry Pi` `GitHub Actions`
+
+### Others
+
+| Project | What it does | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Easy Rail App** | Easy Rail provides real-time train information, seat availability, PNR status, and live train tracking - all in one beautiful, user-friendly interface. | Flutter, Dart | [GitHub](https://github.com/kunal7236/easy_rail_app) \| [Demo](https://www.youtube.com/shorts/q-T9eZis8eU) |
-| **Jan Aushadhi Sarthak** | A Flutter app that finds generic medicine alternatives from Jan Aushadhi stores by parsing prescriptions with OCR. | Flutter, FastAPI, OCR | [GitHub](https://github.com/kunal7236/jan_aushadhi_sarthak) \| [Demo](https://youtube.com/shorts/qs5Gr85ze7M?feature=share) |
-| **Musify** | A music streaming and downloading app with background playback, lock screen controls, and offline support. | Flutter, Dart, audio_service, JioSaavn API | [GitHub](https://github.com/kunal7236/Musify) \| [Demo](https://youtube.com/shorts/NpMFO8_OAzg?feature=share) |
-| **IPTV App** | A modern, feature-rich IPTV streaming application built with Flutter, featuring professional video controls. | Flutter, Dart, HLS Streaming | [GitHub](https://github.com/kunal7236/iptv_player) \| [Demo](https://youtube.com/shorts/LNQ2E4kYZsk?feature=share) |
-| **Weather App** | An intuitive Flutter weather app with real-time data for any city, built with Material Design 3 and dark theme. | Flutter, OpenWeather API | [GitHub](https://github.com/kunal7236/Weather-App) \| [Demo](https://youtube.com/shorts/tHZVERkG7b4?feature=share) |
-
----
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kunal7236&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="kunal7236's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal7236&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kunal7236&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</p>
+| **IPTV Player** | 150 live TV channels via real-time M3U8 parsing, with a custom player supporting 5 aspect ratios, rotation, auto-hiding controls and a tap-to-unlock overlay. | Flutter, Dart, HLS | [Code](https://github.com/kunal7236/iptv_player) · [Demo](https://youtube.com/shorts/LNQ2E4kYZsk?feature=share) |
+| **Musify** | Music streaming and downloading — background playback, lock-screen controls, 320 kbps offline downloads, synced lyrics. | Flutter, audio_service | [Code](https://github.com/kunal7236/Musify) · [Demo](https://youtube.com/shorts/NpMFO8_OAzg?feature=share) |
+| **Easy Rail** | Real-time train information in one place: seat availability, PNR status and live train tracking. | Flutter, REST APIs | [Code](https://github.com/kunal7236/easy_rail_app) · [Demo](https://www.youtube.com/shorts/q-T9eZis8eU) |
+| **Weather App** | Real-time weather for any city, built on Material Design 3 with a dark-first theme. | Flutter, OpenWeather API | [Code](https://github.com/kunal7236/Weather-App) · [Demo](https://youtube.com/shorts/tHZVERkG7b4?feature=share) |
 
 ---
 
-### 🌐 Let's Connect
+## GitHub
 
-You can find me on these platforms:
-
-<p>
-  <a href="https://www.linkedin.com/in/kunal-kashyap-bitmesra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/kunal7236/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="httpsimg://www.geeksforgeeks.org/user/kunal7236/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.naukri.com/code360/profile/therealkunal" target="_blank">
-    <img src="https://img.shields.io/badge/Code360-FFA500?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code360"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal7236&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=4a8cff&icon_color=4a8cff&bg_color=0d1117&text_color=9aa5b1" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal7236&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=4a8cff&bg_color=0d1117&text_color=9aa5b1" alt="Top languages" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kunal7236&hide_border=true&theme=github-dark&ring=4a8cff&fire=4a8cff&currStreakLabel=9aa5b1&background=0d1117" alt="Contribution streak" height="165" />
+</p>
+
+---
+
+## Elsewhere
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1761-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/kunal7236/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2021-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kunal7236/)
+[![Code360](https://img.shields.io/badge/Code360-therealkunal-FF6B00?style=flat-square&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/therealkunal)
+[![X](https://img.shields.io/badge/X-@KashyapK257-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KashyapK257)
+[![Telegram](https://img.shields.io/badge/Telegram-@NinjaApache-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/NinjaApache)

@@ -1,6 +1,6 @@
 # Kunal Kashyap
 
-**Software Engineer Intern at [Zluri](https://www.zluri.com/)** · Computer Science & Engineering at BIT Mesra, Class of '26
+**Software Engineer at [Zluri](https://www.zluri.com/)** · Computer Science & Engineering at BIT Mesra, Class of '26
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kunalka.me-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://www.kunalka.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kunal--kashyap-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kashyap-bitmesra)
